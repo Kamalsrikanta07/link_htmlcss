@@ -1,0 +1,42 @@
+body{
+    background-color:black;
+}
+
+.main{
+background: #151515;
+width: 295px;
+text-align: center;
+position: relative;
+left: 607px;
+top: 152px;
+height: 490px;
+}
+.main1 img{
+border-radius: 175px;
+width: 75px;
+margin-top: 16px;
+}
+
+.para h2{
+    color: azure;
+}
+.para h5{
+color: greenyellow;
+}
+.para p{
+color: antiquewhite;
+}
+
+.button button{
+    width: 250px;
+    height: 34px;
+    border: none;
+    border-radius: 7px;
+    cursor: pointer;
+    color: white;
+    background: black;
+}
+.button button:hover {
+    background-color: yellow; 
+    color:#151515;
+}
